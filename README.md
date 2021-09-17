@@ -34,6 +34,11 @@ If you want to **contribute** with your own **libraries and designs** you can do
 
 The Penpot team will review all libraries and template contributions. The approved files will be available in this repository for other users to free use.
 
-❤️ Your contributions are more than welcome!
+**Your contributions are more than welcome!**
 
 ## Terms and conditions ##
+
+Penpot's general terms and conditions apply to files submitted by users.
+
+[Terms of service](https://penpot.app/terms.html)
+[Privacy policy](https://penpot.app/privacy.html)
