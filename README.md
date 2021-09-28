@@ -28,9 +28,9 @@ Once imported you can convert them into shared libraries and use those files in 
 
 If you want to **contribute** with your own **libraries and designs** you can do it in two ways. 
 
-🤟 Create a pull request in this repository by uploading your penpot file
+- 🤟 Create a pull request in this repository by uploading your penpot file
 
-📧 Send us your penpot file to *info@penpot.app*
+- 📧 Send us your penpot file to *info@penpot.app*
 
 The Penpot team will review all libraries and template contributions. The approved files will be available in this repository for other users to free use.
 
@@ -40,5 +40,5 @@ The Penpot team will review all libraries and template contributions. The approv
 
 Penpot's general terms and conditions apply to files submitted by users.
 
-[Terms of service](https://penpot.app/terms.html)
-[Privacy policy](https://penpot.app/privacy.html)
+- [Terms of service](https://penpot.app/terms.html)
+- [Privacy policy](https://penpot.app/privacy.html)
