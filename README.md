@@ -3,7 +3,7 @@
   <img src="https://penpot.app/images/readme/readme-logo.jpg" alt="PENPOT">
 </h1>
 
-![PENPOT](https://penpot.app/images/readme/home-ui.jpg)
+![PENPOT](https://penpot.app/images/05-section-libraries.png)
 
 ## What is Penpot? ##
 
