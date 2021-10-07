@@ -44,4 +44,4 @@ Penpot's general terms and conditions apply to files submitted by users.
 - [Privacy policy](https://penpot.app/privacy.html)
 
 ## License ##
-[Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
+[Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/)
