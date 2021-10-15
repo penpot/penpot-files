@@ -26,6 +26,9 @@ Once imported you can convert them into shared libraries and use those files in 
 
 ## Collaborate ##
 
+We build this community together ❤️
+Your work and your knowledge can help someone else even if you think it wouldn't. Here's the place to share your libraries and templates or download the one you like. 
+
 If you want to **contribute** with your own **libraries and designs** you can do it in two ways. 
 
 - 🤟 Create a pull request in this repository by uploading your penpot file
