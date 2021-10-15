@@ -13,6 +13,10 @@ Penpot is the first **Open Source design** and prototyping platform meant for cr
 
 ## Libraries & templates ##
 
+We build this community together ❤️
+
+Your work and your knowledge can help someone else even if you think it wouldn't. Here's the place to share your libraries and templates or download the one you like.
+
 A selection of penpot files created by and for the community. Download free resources from this repository to use on your prototypes and designs.
 
 ## How to import these resources ##
@@ -25,9 +29,6 @@ Once imported you can convert them into shared libraries and use those files in 
 📚 [More info about Shared Libraries](https://help.penpot.app/user-guide/libraries/#shared-libraries)
 
 ## Collaborate ##
-
-We build this community together ❤️
-Your work and your knowledge can help someone else even if you think it wouldn't. Here's the place to share your libraries and templates or download the one you like. 
 
 If you want to **contribute** with your own **libraries and designs** you can do it in two ways. 
 
