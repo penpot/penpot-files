@@ -30,15 +30,8 @@ Once imported you can convert them into shared libraries and use those files in 
 
 ## Collaborate ##
 
-If you want to **contribute** with your own **libraries and designs** you can do it in two ways. 
+Look at [CONTRIBUTING](./CONTRIBUTING.md)
 
-- 🤟 Create a pull request in this repository by uploading your penpot file
-
-- 📧 Send us your penpot file to *info@penpot.app*
-
-The Penpot team will review all libraries and template contributions. The approved files will be available in this repository for other users to free use.
-
-**Your contributions are more than welcome!**
 
 ## Terms and conditions ##
 
