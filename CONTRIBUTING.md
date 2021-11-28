@@ -49,7 +49,7 @@ maintaining third-party libraries and reserves the right to remove
 them from the repository in case the author does not respond to
 possible bugs in it.
 
-The contributed files should be licensed with an recogniced OpenSource
+The contributed files should be licensed with a recognised OpenSource
 license. If the license is different that the official one, you should
 contribute the license file in this way:
 
