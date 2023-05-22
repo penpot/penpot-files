@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://penpot.app/images/readme/readme-logo.jpg" alt="PENPOT">
+  <img src="https://penpot.app/images/readme/git-readme-header.png" alt="PENPOT">
 </h1>
 
 ![PENPOT](https://penpot.app/images/05-section-libraries.png)
