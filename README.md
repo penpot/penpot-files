@@ -3,7 +3,7 @@
   <img src="https://penpot.app/images/readme/git-readme-header.png" alt="PENPOT">
 </h1>
 
-![PENPOT]([https://penpot.app/images/05-section-libraries.png](https://github.com/penpot/penpot-files/assets/1045247/45b4661f-0ef5-450f-a673-cad1a6d1f71a)
+<img src="https://penpot.app/images/05-section-libraries.png](https://github.com/penpot/penpot-files/assets/1045247/45b4661f-0ef5-450f-a673-cad1a6d1f71a">
 
 ## What is Penpot? ##
 
