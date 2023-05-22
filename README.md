@@ -3,13 +3,13 @@
   <img src="https://penpot.app/images/readme/git-readme-header.png" alt="PENPOT">
 </h1>
 
-<img src="https://github.com/penpot/penpot-files/assets/1045247/45b4661f-0ef5-450f-a673-cad1a6d1f71a">
-
 ## What is Penpot? ##
 
 Penpot is the first **Open Source design** and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community.
 
 ✏️ [More info about Penpot project](https://github.com/penpot/penpot)
+
+<img src="https://github.com/penpot/penpot-files/assets/1045247/45b4661f-0ef5-450f-a673-cad1a6d1f71a">
 
 ## Libraries & templates ##
 
