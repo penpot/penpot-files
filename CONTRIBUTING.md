@@ -20,7 +20,7 @@ If you found a bug, please report it, as far as possible with:
 
 ## License ##
 
-We are using the CC BY 4.0 (included in the repostory). This is the
+We are using the CC BY 4.0 (included in the repository). This is the
 default license that applies to all `.penpot` files that does not have
 explicit license. This license applies to the `.penpot` file itself
 and the original content (made by penpot).
