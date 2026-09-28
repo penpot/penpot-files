@@ -1,0 +1,18 @@
+Contains GOV.UK Design System content, licensed under the Open Government Licence v3.0:
+
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+The GOV.UK Design System is Crown copyright. The colour palettes, typography
+scale, spacing scale, component designs and specification values reproduced in
+this file are derived from govuk-frontend v6.5.1:
+
+https://github.com/alphagov/govuk-frontend/tree/v6.5.1
+
+Attribution statement:
+
+    Contains public sector information licensed under the Open Government
+    Licence v3.0.
+
+The remainder of this file - the Penpot component structure, layout and token
+architecture - is the work of its author and is licensed under the repository's
+default licence, Creative Commons Attribution 4.0 International.
